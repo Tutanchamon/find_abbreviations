@@ -50,21 +50,24 @@ abbr_dictionary = {}    # dictionary of abbreviation and count of occurences
 pattern_matches = {}    # dictionary of patterns and how many abbreviations they found
 
 def get_abbreviations_from_file(location):
-    print location[0]
+    print 'The file with list of abbreviations was named: ' + location[0]
     abbr_file = open(location[0], 'r')
     abbr_list = []
     for line in abbr_file:
-        abbr_list.append(line)
+        abbr_list.append(line.strip(' \t\n\r'))
     return abbr_list
 
 def write_abbreviations_from_file_stats(abbr_file_list, abbr_dictionary):
+    print '==============================='
     print 'Number of abbreviations in abbreviations list file: ' + str(len(abbr_file_list))
     print 'Number of abbreviations found by script: ' + str(len(abbr_dictionary))
+    print '==============================='
     
 
 def main(argv):
     abbr_list_file_location = ''
     is_summary = False
+    abbr_file_list = []
     ### Parsing options and arguments
     try:
       opts, args = getopt.getopt(argv,"hfs",["abbr_file="])
@@ -98,8 +101,7 @@ def main(argv):
     #    print(abbr + "\t " + str(abbr_dictionary[abbr]))
     
     # For debug purposes - how many abbrevietions were found by each pattern
-    for patt in sorted(pattern_matches.iterkeys()):
-        print(patt.pattern + "\t " + str(pattern_matches[patt]))
+    
     
     # Delete last chars of abbreviations found by followed_by_punc, so
     # abbreviations like 'np.,' become 'np.'
@@ -116,7 +118,29 @@ def main(argv):
       
     if abbr_list_file_location:
         abbr_file_list = get_abbreviations_from_file(abbr_list_file_location)
-        write_abbreviations_from_file_stats(abbr_file_list, abbr_dictionary)
+        if is_summary:
+            write_abbreviations_from_file_stats(abbr_file_list, abbr_dictionary)
+        
+    if is_summary:
+        print '==============================='
+        print 'How many abbreviations were found by each pattern:'
+        print '==============================='
+        for patt in sorted(pattern_matches.iterkeys()):
+            print(patt.pattern + "\t " + str(pattern_matches[patt]))
+            
+    if is_summary & (len(abbr_file_list) > 0):
+        print '==============================='
+        print 'Which abbreviations were wound on the list'
+        print '==============================='
+        for abbr in sorted(abbr_dictionary):
+            print abbr,
+            if abbr in abbr_file_list:
+                print '\t\tfound on the list'
+            else:
+                print '\t\tnot found on the list'
+        #print 'elements from file'
+        #for element in abbr_file_list:
+            #print element
 
 if __name__ == "__main__":
    main(sys.argv[1:])
