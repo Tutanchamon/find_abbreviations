@@ -12,6 +12,6 @@ The scripts takes the standard input and writes the results to the standard outp
 
 Usage: python find_abbreviations.py [-f file_with_list_of_abbreviations] [-s]
 
--f    Path to the file which contains of prepared list of abbreviations for testing purposes
-      Every abbreviation should be placed in a new line
--s    Writes summary: how many abbreviations have been found, how many from them were present in test file
+    -f    Path to the file which contains of prepared list of abbreviations for testing purposes
+          Every abbreviation should be placed in a new line
+    -s    Writes summary: how many abbreviations have been found, how many from them were present in test file
