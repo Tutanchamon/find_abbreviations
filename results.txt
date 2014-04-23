@@ -1,0 +1,2827 @@
+r. 		185919
+w. 		42677
+j.a. 		26030
+m.in. 		16462
+św. 		11898
+np. 		10697
+tzw. 		10205
+zm. 		9003
+m. 		8502
+ks. 		4022
+p.n.e. 		3580
+n.p.m. 		3388
+pt. 		2932
+pw. 		2878
+ds. 		2443
+tys. 		2356
+k. 		2084
+tj. 		2056
+j. 		2009
+A. 		1924
+d. 		1867
+km. 		1784
+J. 		1755
+s. 		1556
+l. 		1136
+mm. 		1097
+W. 		1025
+M. 		979
+I. 		957
+h. 		951
+n.e. 		926
+S. 		880
+ps. 		845
+t. 		837
+p. 		805
+cm. 		796
+tzn. 		778
+B. 		764
+R. 		727
+o.o. 		706
+K. 		640
+L. 		624
+E. 		612
+C. 		594
+F. 		578
+pkt. 		574
+P. 		568
+H. 		547
+o. 		538
+T. 		491
+b. 		482
+kpt. 		480
+kg. 		473
+G. 		454
+gr. 		441
+U. 		435
+D. 		424
+zł. 		420
+v. 		403
+płk. 		387
+hr. 		383
+in. 		368
+fr. 		349
+g. 		344
+V. 		334
+n. 		333
+wz. 		319
+ok. 		296
+pl. 		273
+ang. 		270
+bł. 		267
+N. 		241
+p.o. 		230
+sp. 		211
+X. 		208
+ww. 		207
+itp. 		205
+hm. 		200
+prof. 		194
+st. 		189
+bp. 		188
+rtm. 		181
+O. 		175
+dr. 		173
+szt. 		166
+mln. 		165
+niem. 		160
+Z. 		159
+t.r. 		158
+a. 		154
+woj. 		154
+min. 		150
+ppłk. 		147
+mjr. 		146
+wł. 		136
+gm. 		134
+pn. 		131
+nt. 		130
+nr. 		126
+c. 		126
+cz. 		120
+zw. 		120
+wsch. 		119
+gen. 		118
+trl. 		114
+f. 		108
+dn. 		106
+pd. 		104
+vs. 		103
+ur. 		100
+trb. 		97
+proc. 		93
+rej. 		85
+pp. 		85
+itd. 		83
+pow. 		80
+m.st. 		75
+im. 		74
+e. 		69
+kpr. 		66
+p.w. 		62
+rz. 		60
+gł. 		58
+str. 		55
+płd. 		53
+z. 		51
+zach. 		49
+płn. 		48
+ćw. 		47
+dł. 		47
+p.uł. 		44
+t.j. 		42
+śś. 		41
+kl. 		41
+nm. 		41
+szw. 		41
+dot. 		41
+vz. 		40
+var. 		39
+k.k. 		38
+i. 		38
+ws. 		38
+p.p.m. 		38
+phm. 		38
+wg. 		37
+pol. 		37
+u. 		34
+złp. 		33
+ros. 		32
+wsp. 		32
+a.s. 		32
+kmdr. 		31
+trad. 		30
+wyd. 		30
+etc. 		30
+kat. 		30
+mn. 		29
+godz. 		29
+kw. 		28
+mr. 		27
+dz. 		27
+roku. 		27
+ew. 		27
+br. 		26
+subsp. 		26
+ssp. 		25
+Y. 		25
+temp. 		25
+upr. 		25
+Q. 		24
+ss. 		24
+egz. 		24
+wieku. 		23
+art. 		23
+hab. 		23
+cs. 		23
+zd. 		22
+por. 		22
+ś. 		22
+krypt. 		22
+rzym.-kat. 		21
+x. 		21
+strz. 		20
+oo. 		20
+w.n.e. 		20
+ppanc. 		20
+śl. 		20
+ckm. 		19
+pseud. 		19
+mg. 		19
+l.mn. 		18
+k.c. 		18
+pd.-wsch. 		18
+c.k. 		18
+pn.-zach. 		18
+w.w. 		18
+w.p.n.e. 		18
+pocz. 		18
+jr. 		18
+zb. 		17
+zob. 		17
+płd.-zach. 		16
+os. 		16
+płn.-wsch. 		16
+h.c. 		16
+tyb. 		15
+jap. 		15
+ha. 		14
+płd.-wsch. 		14
+fl. 		14
+nn. 		14
+pd.-zach. 		14
+s.l. 		14
+płn.-zach. 		14
+dm. 		14
+mieszk. 		13
+domów. 		13
+arab. 		13
+spp. 		13
+pot. 		13
+wzgl. 		12
+k.p.a. 		12
+p.p. 		12
+mgr. 		12
+al. 		12
+śp. 		12
+mk. 		12
+sv. 		12
+pn.-wsch. 		12
+q. 		12
+łac. 		11
+lp. 		11
+gw. 		11
+wzg. 		11
+ml. 		11
+tr. 		11
+sek. 		10
+franc. 		10
+nadzw. 		10
+hiszp. 		10
+sw. 		10
+www. 		10
+wag. 		10
+i.v. 		10
+ver.di. 		10
+doc. 		10
+pwd. 		10
+i.e. 		10
+mur. 		10
+p.n. 		10
+l.poj. 		9
+wys. 		9
+bryg. 		9
+mł. 		9
+ob. 		9
+ppor. 		9
+ppk. 		9
+tł. 		9
+sł. 		9
+ś.p. 		8
+m.c. 		8
+drewn. 		8
+r.n.e. 		8
+p.s. 		8
+grzyw. 		8
+skr. 		8
+syn. 		8
+y. 		8
+k.p.k. 		8
+uł. 		8
+mł.asp. 		8
+s.c. 		8
+r.b. 		8
+n.m. 		8
+n.n. 		8
+szl. 		8
+pszw. 		7
+kbps. 		7
+inval. 		7
+mc. 		7
+podst. 		7
+ukr. 		7
+ms. 		7
+kk. 		7
+jw. 		7
+dawn. 		7
+grek. 		7
+śwśw. 		7
+kt. 		7
+hebr. 		7
+kor. 		7
+św.św. 		7
+ts. 		7
+sz. 		7
+mieszkańców. 		6
+chin. 		6
+l.u. 		6
+ul. 		6
+mld. 		6
+z.o.o. 		6
+k.p.c. 		6
+sl. 		6
+k.u.k. 		6
+nov. 		6
+dok. 		6
+l.p. 		6
+dyw. 		6
+cc. 		6
+lit. 		6
+maks. 		6
+z.d.o. 		6
+ł. 		6
+par. 		6
+r.o. 		6
+s.r.o. 		6
+k.m. 		6
+dol. 		6
+o.p. 		6
+s.s. 		6
+w.cz. 		6
+c.o. 		6
+rzym. 		6
+z.d. 		6
+gat. 		5
+krm. 		5
+miejsc. 		5
+demokraci.pl. 		5
+tz. 		5
+obw. 		5
+płw. 		5
+ż. 		5
+cyt. 		5
+bl. 		5
+pr. 		5
+mi.in. 		5
+pw.św. 		5
+wiorst. 		5
+pers. 		5
+chorw. 		5
+złr. 		5
+czyt. 		5
+wzm. 		5
+ns. 		5
+oddz. 		5
+ujg. 		5
+mkw. 		5
+sygn. 		5
+red. 		5
+ctn. 		5
+rs. 		5
+past. 		5
+psk. 		5
+zam. 		4
+ndzw. 		4
+r.p.n.e. 		4
+npm. 		4
+pastw. 		4
+gn. 		4
+grz. 		4
+rom. 		4
+bwp. 		4
+m.b. 		4
+mong. 		4
+irl. 		4
+wym. 		4
+k.s.h. 		4
+tur. 		4
+k.k.w. 		4
+c.p. 		4
+r.ż. 		4
+will.i.am. 		4
+cit. 		4
+en.wiki. 		4
+bm. 		4
+paraf. 		4
+k.t. 		4
+pil. 		4
+kol. 		4
+r.niem. 		4
+c.b.d.o. 		4
+zwł. 		4
+b.r. 		4
+s.f. 		4
+scs. 		4
+nzw. 		4
+p.f. 		4
+węg. 		4
+wlk. 		4
+c.gn. 		4
+plot. 		4
+ż.w. 		4
+folw. 		4
+k.p. 		4
+p.p.t. 		4
+l.y. 		4
+n.p.t. 		4
+n.p. 		4
+rz.-kat. 		4
+obj. 		4
+a.m. 		4
+j.w. 		4
+rum. 		4
+e.w. 		4
+e.e. 		4
+m.n. 		4
+kr. 		4
+ład.miotaj. 		3
+jedn. 		3
+p.por. 		3
+wiek. 		3
+błr. 		3
+wiet. 		3
+poczt. 		3
+max. 		3
+czw. 		3
+nast. 		3
+wt. 		3
+abp. 		3
+ppł. 		3
+dh. 		3
+cyr. 		3
+mb. 		3
+fabr. 		3
+osad. 		3
+chiń. 		3
+prawdop. 		3
+prawd. 		3
+dyr. 		3
+oryg. 		3
+mórg. 		3
+mlk. 		3
+w.ks. 		3
+i.in. 		3
+nb. 		3
+bpa. 		3
+wybud. 		3
+przedr. 		3
+st.sp. 		3
+śr. 		3
+gub. 		3
+sp.j. 		3
+lx. 		3
+wś. 		3
+chor. 		3
+serb. 		3
+czł. 		3
+plc. 		3
+ct. 		3
+cf. 		3
+geocaching.com. 		3
+w.ś. 		3
+fran. 		3
+hl. 		3
+poj. 		3
+hist. 		3
+popr. 		3
+psł. 		3
+sk.gn. 		3
+sgr. 		3
+rpm. 		3
+łc. 		3
+odl. 		3
+pd.zach. 		3
+ub. 		3
+racjonalista.pl. 		2
+e.v. 		2
+rozl. 		2
+u.f.p. 		2
+nw. 		2
+rys. 		2
+r.s. 		2
+u.o.f.p. 		2
+p.d.o.z. 		2
+w.t. 		2
+u.s.p. 		2
+u.o.s.g. 		2
+u.p.t.u. 		2
+wsi. 		2
+czes. 		2
+dek. 		2
+leg. 		2
+bsm. 		2
+c.w. 		2
+em. 		2
+op.cit. 		2
+prob. 		2
+u.k.w.h. 		2
+dzisiaj. 		2
+xx. 		2
+ton. 		2
+u.j.p. 		2
+kaz. 		2
+s.a.r.l. 		2
+u.t.d. 		2
+c.d. 		2
+krak. 		2
+el. 		2
+a.g. 		2
+skt. 		2
+katol. 		2
+spustowym. 		2
+u.z.r.r.z. 		2
+osiągnięć. 		2
+bat. 		2
+dow. 		2
+pleb. 		2
+geogr. 		2
+hort. 		2
+t.s. 		2
+p.m. 		2
+m.k.k. 		2
+wkm. 		2
+p.b. 		2
+mel. 		2
+drew. 		2
+b.m. 		2
+msc. 		2
+u.p.n. 		2
+tal. 		2
+k.d. 		2
+m.a. 		2
+dłg. 		2
+t.p. 		2
+or. 		2
+ź. 		2
+kan. 		2
+i.m. 		2
+s.j. 		2
+y.o. 		2
+akad. 		2
+b.p. 		2
+dosł. 		2
+arch. 		2
+zlot.wikimedia.pl. 		2
+lic. 		2
+oset. 		2
+i.t.d. 		2
+n.p.m.n. 		2
+k.u. 		2
+rż. 		2
+fen. 		2
+gr.-kat. 		2
+k.r.o. 		2
+ccm. 		2
+rodziny. 		2
+rub. 		2
+a.d. 		2
+n.m.p. 		2
+mar. 		2
+tyg. 		2
+innymi. 		2
+z.w.p. 		2
+rkm. 		2
+arcyb. 		2
+w.m. 		2
+sr. 		2
+tv. 		2
+j.m. 		2
+m.i. 		2
+j.s.t. 		2
+p.w.k.k. 		2
+s.t. 		2
+gazeta.pl. 		2
+kbk. 		2
+sc. 		2
+n.t. 		2
+c.w.u. 		2
+p.w.św. 		2
+d.k.p.k. 		2
+mrg. 		2
+prod. 		2
+prawy.pl. 		2
+w.p. 		2
+p.z.p. 		2
+nieoficj. 		2
+zbud. 		2
+proj. 		2
+as. 		2
+s.a. 		2
+skrz. 		2
+m.n.p.m. 		2
+u.o.p.a. 		2
+ft. 		2
+dt. 		2
+m.k. 		2
+u.o.s.u.s. 		2
+reż. 		2
+vols. 		2
+p.j.p. 		2
+k.k.s. 		2
+s.m.a.r.t. 		2
+hg. 		2
+g.b. 		2
+g.t. 		2
+l.m. 		2
+fin. 		2
+stanowisk. 		2
+miesz. 		2
+nab. 		2
+a.r. 		2
+pvm. 		2
+j.t. 		2
+dypl. 		2
+w.c. 		2
+inf. 		2
+stpl. 		2
+p.o.d. 		2
+ligg. 		2
+płn.wsch. 		2
+metal. 		2
+tut. 		2
+farm. 		2
+twz. 		2
+nacz. 		2
+szk. 		2
+b.d. 		2
+bd. 		2
+pf. 		2
+polityk. 		2
+px. 		2
+sg. 		2
+r.m. 		2
+b.v. 		2
+ch. 		2
+dniach. 		2
+d.s. 		2
+kp. 		2
+kb. 		2
+w.s. 		2
+uł.os.pr. 		2
+komp. 		2
+zagr. 		2
+mat. 		2
+k.r. 		2
+sing. 		2
+p.poż. 		2
+jz. 		2
+ogr. 		2
+cv. 		2
+pśb. 		2
+kpk. 		2
+ub.w. 		2
+pchor. 		2
+właśc. 		2
+u.d.i.p. 		2
+u.g.k. 		2
+prus. 		2
+cnt. 		2
+mph. 		2
+rez. 		2
+wf. 		2
+m.n.p.t. 		2
+tm. 		2
+n.h. 		2
+rodzin. 		2
+n.p.n. 		2
+wzn. 		2
+słń. 		2
+odc. 		2
+dzieci. 		2
+polskim. 		1
+mało. 		1
+starodrzew. 		1
+pl.wiki. 		1
+rundzie. 		1
+gl. 		1
+rodz. 		1
+san.-epid. 		1
+np.płuca. 		1
+szkolnej. 		1
+hol. 		1
+galaktyce. 		1
+patrz. 		1
+dź. 		1
+piech. 		1
+cyl. 		1
+obecnie. 		1
+cal. 		1
+tel. 		1
+technicznym. 		1
+teologiapolityczna.pl. 		1
+muzycznych. 		1
+ego. 		1
+mies. 		1
+ściąga.pl. 		1
+www.globalgreens.info. 		1
+szwedz. 		1
+kategorie. 		1
+rzymskokatolików. 		1
+zrt. 		1
+wpm. 		1
+krakow. 		1
+włościańskiej. 		1
+marzycielem. 		1
+stgnm. 		1
+kierunki. 		1
+st.uł. 		1
+www.kampanianazywo.pl. 		1
+dokumentach. 		1
+odb. 		1
+zagrodn. 		1
+tłum. 		1
+duszp. 		1
+asteroidy. 		1
+odp. 		1
+teatr. 		1
+p.szwol. 		1
+starofranc. 		1
+zwyczajny. 		1
+zap. 		1
+md. 		1
+werniksem. 		1
+sochaczewianin.pl. 		1
+daw. 		1
+gosp. 		1
+index.dat. 		1
+warunki. 		1
+karakałp. 		1
+www.bonsaikitten.com. 		1
+wypowiedziach. 		1
+karacz.-bałk. 		1
+kasztelana. 		1
+do. 		1
+helw. 		1
+m.im. 		1
+ksylemu. 		1
+arkady. 		1
+punkt. 		1
+biol. 		1
+kawalerii. 		1
+radiojazz.fm. 		1
+pistoletu. 		1
+jx. 		1
+drzewami. 		1
+owszem. 		1
+dst. 		1
+oprac. 		1
+płótnem. 		1
+muzyki. 		1
+elektorem. 		1
+ftp. 		1
+sow. 		1
+wrz. 		1
+www.cracovia.livenet.pl. 		1
+koronnej. 		1
+floren. 		1
+dziennikarzami. 		1
+dpkg. 		1
+ort. 		1
+satanizmu. 		1
+co. 		1
+czarnog. 		1
+automatycznym. 		1
+prop. 		1
+trzydziestoletniej. 		1
+pcz. 		1
+zagrod. 		1
+usunac. 		1
+gr.kat. 		1
+home.pl. 		1
+podjazd. 		1
+organizacji. 		1
+pogodynka.pl. 		1
+podsekr. 		1
+prezbiterium. 		1
+gx. 		1
+terytorialnej. 		1
+t.odprowadzającej. 		1
+wyst. 		1
+najb. 		1
+domy. 		1
+klony. 		1
+błg. 		1
+wlkp. 		1
+onet.pl. 		1
+ogn. 		1
+pomorskiego. 		1
+godziny. 		1
+tabelki. 		1
+rrrrmmdd. 		1
+op. 		1
+geolutin.com. 		1
+tys.wiernych. 		1
+nw.gr. 		1
+klubu. 		1
+open.fm. 		1
+targowiczan. 		1
+ind. 		1
+gruz. 		1
+kolejowy. 		1
+pos. 		1
+hs. 		1
+tzar.wdm. 		1
+czasu. 		1
+czerwonej. 		1
+szablony. 		1
+omszona. 		1
+symbolics.com. 		1
+woj.kieleckim. 		1
+podgatunkach. 		1
+info. 		1
+gen.dyw. 		1
+hab.n.med. 		1
+założ. 		1
+oksyt. 		1
+gminy. 		1
+mt. 		1
+puscifer.com. 		1
+search.blogger.com. 		1
+niemieckim. 		1
+kirg. 		1
+koronach. 		1
+opowiadania.pl. 		1
+dial. 		1
+ciuchy. 		1
+www.audio.demon.nl. 		1
+bitwy. 		1
+instr. 		1
+sierpniu. 		1
+sześc.gazu. 		1
+dpn. 		1
+monarchii. 		1
+xk. 		1
+dnie. 		1
+sklepu. 		1
+sp.p. 		1
+sierż. 		1
+mbl.is. 		1
+swět. 		1
+wchm. 		1
+www.zspborek.szkolnastrona.pl. 		1
+jh. 		1
+warstwowo. 		1
+interia.pl. 		1
+parafialny. 		1
+dobroczynnej. 		1
+uzupeł. 		1
+inkubatorze. 		1
+pdt. 		1
+alt. 		1
+klaw. 		1
+wodach. 		1
+torfowcowego. 		1
+pppd. 		1
+retorom. 		1
+koronnym. 		1
+podof. 		1
+zr. 		1
+diec. 		1
+udać. 		1
+tfr. 		1
+turniejach. 		1
+empik.com. 		1
+diagram. 		1
+script.img. 		1
+śrdw. 		1
+pzmot. 		1
+rolnicza. 		1
+baw. 		1
+deleg. 		1
+gh. 		1
+cywilnego. 		1
+muzyczne. 		1
+źr. 		1
+czeska. 		1
+inż. 		1
+imprez.in. 		1
+zewn. 		1
+playok.com. 		1
+literatów. 		1
+ojciec. 		1
+mamy. 		1
+gospodarzy. 		1
+plrt. 		1
+feat. 		1
+wzniesienia. 		1
+germ. 		1
+chwytu. 		1
+lazuli. 		1
+lm. 		1
+stopami. 		1
+admina. 		1
+dnia. 		1
+siedliskowej. 		1
+pobor. 		1
+takt. 		1
+www.afryka.org. 		1
+p.zmot. 		1
+anihilowana. 		1
+cmd.exe. 		1
+sady. 		1
+kpr.pchr. 		1
+org. 		1
+staronord. 		1
+germanizacyjny. 		1
+archiwum. 		1
+partyjne. 		1
+konopie. 		1
+sportowego. 		1
+pragerm. 		1
+dziala. 		1
+ks.kan. 		1
+kpc. 		1
+atmosfery. 		1
+www.episkopat.pl. 		1
+utg. 		1
+ub.m. 		1
+rejonie. 		1
+poetki. 		1
+werden. 		1
+deszczu. 		1
+tak. 		1
+ogromne. 		1
+j.św. 		1
+zwrotnym. 		1
+sandomierska. 		1
+media. 		1
+t.zw. 		1
+prem. 		1
+uranu. 		1
+wiedzy. 		1
+nl. 		1
+zawieszenie. 		1
+spodzie. 		1
+lek. 		1
+dwor. 		1
+wieczoru. 		1
+amer. 		1
+zagrodniczce. 		1
+irytuje. 		1
+uzup. 		1
+mapa. 		1
+szp. 		1
+gen.bryg. 		1
+dz.u. 		1
+sztucznego. 		1
+dóbr. 		1
+this.name. 		1
+youtu.be. 		1
+miejscowych. 		1
+kilometrze. 		1
+folwarku. 		1
+dzienniki. 		1
+spadochroniarzy. 		1
+skandal. 		1
+kpl. 		1
+bpm. 		1
+minimalna. 		1
+hmmm. 		1
+bblog.pl. 		1
+ń. 		1
+po. 		1
+pigmentu. 		1
+sportowiec. 		1
+kpt.ż.w. 		1
+tkzw. 		1
+korp. 		1
+ornych. 		1
+kilkubudynkowe. 		1
+st.sierż. 		1
+sam. 		1
+isl. 		1
+jak. 		1
+półn.-wsch. 		1
+stadiony.net. 		1
+opr. 		1
+instytucja.qld.gov.au. 		1
+symbolizmu. 		1
+taj. 		1
+polny. 		1
+wysp. 		1
+wytd. 		1
+para. 		1
+min.fin. 		1
+wyl. 		1
+eteru. 		1
+bóg. 		1
+tłm. 		1
+komercyjnym. 		1
+ch.r.l. 		1
+staropers. 		1
+starop. 		1
+wodospadami. 		1
+pdrtm. 		1
+dd. 		1
+podgat. 		1
+ppkt. 		1
+dbf. 		1
+oldboye. 		1
+rus. 		1
+grec. 		1
+osm.-tur. 		1
+pzt. 		1
+rozkazodawstwa. 		1
+rubli. 		1
+p.odg. 		1
+tzw.podkowy. 		1
+niepożądanych. 		1
+wrzosowiskach. 		1
+nawy. 		1
+małopolskiego. 		1
+biblia.pl. 		1
+j.niem. 		1
+szer. 		1
+www.przystanwarmia.eu. 		1
+pisze. 		1
+wet. 		1
+wojew. 		1
+technicznych. 		1
+fil. 		1
+grobowca. 		1
+obcokrajowcy. 		1
+dygnitarzami. 		1
+zarzut. 		1
+wż. 		1
+rozumie. 		1
+rolnego. 		1
+kraju. 		1
+sędziowskim. 		1
+konna. 		1
+hiszp.-łac. 		1
+ppor.rez. 		1
+cdn. 		1
+wm. 		1
+wyborczym. 		1
+kanton. 		1
+blog.onet.pl. 		1
+stron. 		1
+pieszych. 		1
+poborowego. 		1
+francuskiej. 		1
+poch. 		1
+plamki. 		1
+bułg. 		1
+spr. 		1
+gmina. 		1
+spocz. 		1
+dramatopisarzem. 		1
+muz. 		1
+ryby. 		1
+słow. 		1
+lit.-artyst. 		1
+tuw. 		1
+spol. 		1
+blackberry.net. 		1
+remizy. 		1
+sześć. 		1
+gtf. 		1
+nothosubsp. 		1
+wroga. 		1
+mał. 		1
+np.kulorzęskiem. 		1
+ks.hm. 		1
+www.penspinning.pl. 		1
+antytrynitarskiego. 		1
+dusz. 		1
+sms. 		1
+sier. 		1
+last.fm. 		1
+sss. 		1
+plmb. 		1
+artystyczne. 		1
+port. 		1
+praef. 		1
+ppm. 		1
+st.słowian. 		1
+urodz. 		1
+wr. 		1
+l.dz. 		1
+lat. 		1
+m.cz. 		1
+atm. 		1
+sb. 		1
+snop. 		1
+murowany. 		1
+linksrh. 		1
+frl. 		1
+kard. 		1
+pruskie. 		1
+kipiani.org. 		1
+cdp.pl. 		1
+przesada. 		1
+frontowej. 		1
+kolei. 		1
+mi.n. 		1
+im.płk. 		1
+ograniczone. 		1
+ozn. 		1
+stwniem. 		1
+odm. 		1
+osób. 		1
+nkm. 		1
+niepr. 		1
+gnieźn. 		1
+olimp. 		1
+sp.k. 		1
+poziomego. 		1
+tat. 		1
+zespole. 		1
+hrb. 		1
+kwět. 		1
+cmentarz. 		1
+rxvt. 		1
+prowans. 		1
+bitwie. 		1
+wodnych. 		1
+komor. 		1
+słw. 		1
+obrad. 		1
+gospodarstw. 		1
+np.ochotką. 		1
+aminokwasowa. 		1
+rozkazu. 		1
+cd. 		1
+starofrank. 		1
+orm. 		1
+kathedr. 		1
+uchwytem. 		1
+fps. 		1
+pojazdy. 		1
+nom. 		1
+komputerowej. 		1
+premier.gov.pl. 		1
+połud.-wsch. 		1
+repertuaru. 		1
+czas. 		1
+ar. 		1
+bar. 		1
+opatem. 		1
+p.zmot.kaw. 		1
+psql. 		1
+młp. 		1
+wrzecion. 		1
+kieleckiego. 		1
+devayonii. 		1
+global. 		1
+dyskusji. 		1
+bhp. 		1
+połud.-zach. 		1
+nap. 		1
+departamentalizacja. 		1
+kn. 		1
+wilgotny. 		1
+kmiecych. 		1
+grunt. 		1
+basista. 		1
+samopowtarzalny. 		1
+nld. 		1
+ltd. 		1
+dmc. 		1
+dvd. 		1
+forma. 		1
+naukowych. 		1
+wojskowy. 		1
+birm. 		1
+vaticanstate.va. 		1
+wew. 		1
+podziemia. 		1
+ub.r. 		1
+folwark. 		1
+przedmieść. 		1
+bg. 		1
+st.mar. 		1
+oku. 		1
+wodny. 		1
+kanonizowanego. 		1
+łacińskie. 		1
+grzywien. 		1
+archipelagu. 		1
+pytania. 		1
+med. 		1
+mrs. 		1
+orzechowego. 		1
+startup.cmd. 		1
+www.opoka.org.pl. 		1
+poz. 		1
+wyd.pol. 		1
+kar. 		1
+szyba. 		1
+elektrycznie. 		1
+liturgicznym. 		1
+zh. 		1
+models.com. 		1
+msk. 		1
+jadowymi. 		1
+wyk. 		1
+scp. 		1
+ziemi. 		1
+zag. 		1
+imdb.com. 		1
+partycji. 		1
+sx. 		1
+p.szw. 		1
+co.nr. 		1
+charakt. 		1
+btw. 		1
+na. 		1
+kir. 		1
+b.zwyczajną. 		1
+podstawowe. 		1
+rozkwit. 		1
+pchr. 		1
+ogona. 		1
+lomb. 		1
+strachem. 		1
+norw. 		1
+uzb. 		1
+dokum. 		1
+przychylnie. 		1
+betandwin.com. 		1
+jazdy. 		1
+ofic. 		1
+fotopolska.eu. 		1
+zach.-płn. 		1
+metr. 		1
+kategoria. 		1
+zachodnie. 		1
+muzyk. 		1
+vel. 		1
+Ă. 		1
+od. 		1
+fol. 		1
+sap. 		1
+trasy. 		1
+ndz. 		1
+lojb. 		1
+pastwiskach. 		1
+nż. 		1
+jest. 		1
+brata. 		1
+przodu. 		1
+dwa. 		1
+religijnym. 		1
+wi. 		1
+uproszcz. 		1
+txt. 		1
+gruntach. 		1
+wiceadm. 		1
+tkactwo. 		1
+gamma. 		1
+adresu. 		1
+kasz. 		1
+subp. 		1
+przedludzkimi. 		1
+zamkowej. 		1
+xkcd. 		1
+kwadratowych. 		1
+rmx. 		1
+opisywac. 		1
+si. 		1
+samym. 		1
+da. 		1
+dz.urz. 		1
+www.studzianka.pl. 		1
+zbrojnej. 		1
+osiagniec. 		1
+rybnickie. 		1
+rosyjskim. 		1
+narodowosci. 		1
+zniszczeniu. 		1
+www.itvp.pl. 		1
+zaginionych. 		1
+weryfikacji. 		1
+c.wł. 		1
+fleksografia. 		1
+włśc. 		1
+opozycji. 		1
+lt. 		1
+bdb. 		1
+wewn. 		1
+wfisci. 		1
+www.pidgin.im. 		1
+m.npm. 		1
+lewica.pl. 		1
+dvb. 		1
+kier. 		1
+wyróżnia. 		1
+bsmt. 		1
+jazd. 		1
+mcccxcv. 		1
+krz. 		1
+scen. 		1
+pg. 		1
+prasy. 		1
+kryt. 		1
+fac. 		1
+ppodh. 		1
+doswiadczenia. 		1
+frp. 		1
+zwietrzelina. 		1
+ndst. 		1
+miejscu. 		1
+koloru. 		1
+dw. 		1
+het. 		1
+worki. 		1
+urbanist. 		1
+one. 		1
+np.m. 		1
+w.s.woj. 		1
+sh. 		1
+owocowych. 		1
+holenderskich. 		1
+tabliczkowy. 		1
+prof.dr. 		1
+poprz. 		1
+radiogdansk.pl. 		1
+kalis. 		1
+zdrowie. 		1
+ja.wikipedia.com. 		1
+powiat. 		1
+burskiej. 		1
+fragm. 		1
+historycznych. 		1
+inima.al. 		1
+usuneliscie. 		1
+wyż.wym. 		1
+wcz. 		1
+ldz. 		1
+g.region. 		1
+z.ch. 		1
+theeraser.net. 		1
+taras. 		1
+się. 		1
+bsp. 		1
+pd.wsch. 		1
+charakterze. 		1
+wal. 		1
+cmentarzu. 		1
+cx. 		1
+wydzielono. 		1
+infoboxy. 		1
+pl.comp.dtp.tex.gust. 		1
+domena.com.al. 		1
+zagranicy. 		1
+tadż. 		1
+sch. 		1
+jpg. 		1
+slrn. 		1
+gorlickiej. 		1
+pz. 		1
+zbior. 		1
+peczki. 		1
+zachodu. 		1
+kultura.wp.pl. 		1
+dopiewski. 		1
+rozm. 		1
+pracy. 		1
+fab. 		1
+n.pm. 		1
+pwn.pl. 		1
+dr.pow. 		1
+roli. 		1
+ency. 		1
+m.ni. 		1
+pułapu. 		1
+substancji. 		1
+turystów. 		1
+licencji. 		1
+mf. 		1
+lista. 		1
+karel. 		1
+sidebar.exe. 		1
+rtg. 		1
+sk. 		1
+nid. 		1
+www.polityka.pl. 		1
+żw. 		1
+k.k.priv. 		1
+błp. 		1
+pn.zach. 		1
+filoz. 		1
+cmentarza. 		1
+egzemplarzy. 		1
+ruszenia. 		1
+www.ekoturystykawpolsce.pl. 		1
+ibid. 		1
+kand. 		1
+spalona. 		1
+zysku. 		1
+hasła. 		1
+łanów. 		1
+półłankach. 		1
+mediae. 		1
+spokr. 		1
+wydz. 		1
+bossa.pl. 		1
+maz. 		1
+lmn. 		1
+klas. 		1
+słn. 		1
+zawodowych. 		1
+trolejbusowa. 		1
+węży. 		1
+itp.itp. 		1
+death. 		1
+meteo. 		1
+mi. 		1
+The file with list of abbreviations was named: pl_abbrevs.txt
+
+
+===============================
+Number of abbreviations in abbreviations list file: 633
+Number of abbreviations found by script: 1398
+Precision =  368 / ( 368  +  1030 ) =  0.263233190272
+Coverage =  368  /  633  =  0.581358609795
+===============================
+
+
+===============================
+How many abbreviations were found by each pattern:
+===============================
+^[A-Za-z]\.$	 84190
+^[bcćdfghjklłmnńpqrsśtvwxzźż]+\.$	 126697
+([a-ząćęłńóśźż]+\.){2,}$	 34753
+[a-ząćęłńóśźż]+\.-[a-ząćęłńóśźż]+\.$	 158
+[a-ząćęłńóśźż]+\.[,;:]$	 8526
+^([a-ząćęłńóśźż]\.)+$	 85934
+^[a-z]+\. [a-ząćężźółńś]+$	 57792
+
+
+===============================
+Abbreviations which were found on the list
+===============================
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+H.
+I.
+J.
+K.
+L.
+M.
+N.
+O.
+P.
+Q.
+R.
+S.
+T.
+U.
+W.
+X.
+Y.
+Z.
+a.
+a.g.
+a.m.
+a.s.
+abp.
+al.
+ang.
+arch.
+art.
+b.
+b.d.
+b.r.
+b.v.
+bd.
+bdb.
+bl.
+bm.
+bp.
+br.
+bryg.
+bsm.
+bsmt.
+bł.
+błp.
+c.
+c.b.d.o.
+c.d.
+c.o.
+c.w.u.
+c.wł.
+cal.
+cdn.
+ch.r.l.
+chor.
+co.
+cyt.
+cz.
+czw.
+czyt.
+czł.
+d.
+d.k.p.k.
+dmc.
+dn.
+doc.
+dok.
+dol.
+dosł.
+dot.
+dr.
+ds.
+dst.
+dw.
+dypl.
+dyr.
+dyw.
+dz.
+dz.u.
+dz.urz.
+dł.
+e.
+egz.
+etc.
+ew.
+f.
+fabr.
+filoz.
+fin.
+fr.
+fragm.
+franc.
+g.
+gat.
+gen.
+geogr.
+gm.
+godz.
+gosp.
+gr.
+gub.
+gł.
+h.
+h.c.
+hab.
+hr.
+i.
+ibid.
+in.
+inf.
+inż.
+itd.
+itp.
+j.
+j.m.
+j.s.t.
+j.t.
+j.w.
+jedn.
+jr.
+jw.
+k.
+k.c.
+k.k.
+k.k.s.
+k.k.w.
+k.p.
+k.p.a.
+k.p.c.
+k.p.k.
+k.r.o.
+k.s.h.
+kand.
+kard.
+kier.
+kl.
+kmdr.
+kol.
+kpl.
+kpr.
+kpt.
+kpt.ż.w.
+krypt.
+ks.
+kw.
+l.
+l.dz.
+l.p.
+ldz.
+lek.
+lic.
+lit.
+lm.
+lmn.
+lp.
+ltd.
+m.
+m.b.
+m.in.
+m.st.
+maks.
+mar.
+mat.
+mb.
+med.
+mgr.
+mies.
+mieszk.
+min.
+min.fin.
+mjr.
+mkw.
+mr.
+mrs.
+muz.
+mł.
+młp.
+n.
+n.e.
+n.p.m.
+nab.
+nast.
+nb.
+ndst.
+np.
+nr.
+nt.
+nw.
+o.
+o.o.
+ob.
+obj.
+odc.
+oddz.
+odp.
+ofic.
+ogn.
+ogr.
+ok.
+oo.
+op.
+op.cit.
+opr.
+oprac.
+oryg.
+os.
+p.
+p.d.o.z.
+p.m.
+p.n.e.
+p.o.
+p.o.d.
+p.p.m.
+p.poż.
+p.s.
+p.w.
+p.w.k.k.
+p.z.p.
+par.
+paraf.
+pchor.
+pd.
+pd.-wsch.
+pd.-zach.
+pkt.
+pl.
+pn.
+pn.-wsch.
+pn.-zach.
+poch.
+pocz.
+podof.
+poj.
+por.
+pow.
+poz.
+pp.
+ppanc.
+ppkt.
+ppor.
+ppłk.
+proc.
+prod.
+prof.
+proj.
+ps.
+pseud.
+pt.
+pw.
+płd.
+płk.
+płn.
+płw.
+q.
+r.
+red.
+rej.
+reż.
+rodz.
+ros.
+rozm.
+rtg.
+rub.
+rys.
+rz.
+rż.
+s.
+s.a.
+s.c.
+s.j.
+s.m.a.r.t.
+san.-epid.
+sek.
+sierż.
+sp.
+sp.j.
+sp.k.
+sp.p.
+spocz.
+spr.
+st.
+str.
+strz.
+sygn.
+szer.
+szk.
+szp.
+szt.
+t.
+t.j.
+t.s.
+tel.
+tj.
+tut.
+tyg.
+tys.
+tzn.
+tzw.
+tł.
+tłum.
+u.
+u.d.i.p.
+u.f.p.
+u.g.k.
+u.j.p.
+u.k.w.h.
+u.o.f.p.
+u.o.p.a.
+u.o.s.g.
+u.o.s.u.s.
+u.p.n.
+u.p.t.u.
+u.s.p.
+u.t.d.
+u.z.r.r.z.
+ub.
+ub.m.
+ub.r.
+ukr.
+ul.
+ur.
+uzup.
+uł.
+v.
+vs.
+w.
+w.c.
+w.s.woj.
+w.w.
+wew.
+wf.
+wiceadm.
+wlk.
+wlkp.
+wm.
+woj.
+ws.
+wsch.
+wt.
+ww.
+wyd.
+wydz.
+wyk.
+wym.
+wys.
+wzm.
+wł.
+z.ch.
+zach.
+zagr.
+zam.
+zd.
+zewn.
+zm.
+zob.
+zw.
+ćw.
+łac.
+śl.
+śp.
+śr.
+św.
+śś.
+źr.
+
+
+===============================
+Abbreviations which were not found on the list
+===============================
+j.a. 		26030
+km. 		1784
+mm. 		1097
+cm. 		796
+kg. 		473
+zł. 		420
+V. 		334
+wz. 		319
+hm. 		200
+rtm. 		181
+mln. 		165
+niem. 		160
+t.r. 		158
+trl. 		114
+trb. 		97
+im. 		74
+z. 		51
+p.uł. 		44
+szw. 		41
+nm. 		41
+vz. 		40
+var. 		39
+phm. 		38
+pol. 		37
+wg. 		37
+złp. 		33
+wsp. 		32
+kat. 		30
+trad. 		30
+mn. 		29
+roku. 		27
+subsp. 		26
+ssp. 		25
+upr. 		25
+temp. 		25
+ss. 		24
+wieku. 		23
+cs. 		23
+ś. 		22
+rzym.-kat. 		21
+x. 		21
+w.n.e. 		20
+mg. 		19
+ckm. 		19
+l.mn. 		18
+w.p.n.e. 		18
+c.k. 		18
+zb. 		17
+płd.-zach. 		16
+płn.-wsch. 		16
+tyb. 		15
+jap. 		15
+fl. 		14
+płd.-wsch. 		14
+s.l. 		14
+ha. 		14
+dm. 		14
+płn.-zach. 		14
+nn. 		14
+pot. 		13
+domów. 		13
+spp. 		13
+arab. 		13
+p.p. 		12
+wzgl. 		12
+mk. 		12
+sv. 		12
+tr. 		11
+gw. 		11
+ml. 		11
+wzg. 		11
+ver.di. 		10
+nadzw. 		10
+i.e. 		10
+sw. 		10
+pwd. 		10
+www. 		10
+hiszp. 		10
+wag. 		10
+i.v. 		10
+mur. 		10
+p.n. 		10
+l.poj. 		9
+ppk. 		9
+sł. 		9
+y. 		8
+r.b. 		8
+syn. 		8
+ś.p. 		8
+skr. 		8
+n.m. 		8
+m.c. 		8
+drewn. 		8
+mł.asp. 		8
+r.n.e. 		8
+n.n. 		8
+grzyw. 		8
+szl. 		8
+pszw. 		7
+sz. 		7
+śwśw. 		7
+kk. 		7
+ts. 		7
+ms. 		7
+kbps. 		7
+hebr. 		7
+dawn. 		7
+św.św. 		7
+inval. 		7
+kt. 		7
+mc. 		7
+grek. 		7
+kor. 		7
+podst. 		7
+mieszkańców. 		6
+chin. 		6
+s.s. 		6
+o.p. 		6
+l.u. 		6
+ł. 		6
+mld. 		6
+r.o. 		6
+sl. 		6
+k.u.k. 		6
+z.o.o. 		6
+s.r.o. 		6
+nov. 		6
+cc. 		6
+k.m. 		6
+z.d. 		6
+z.d.o. 		6
+rzym. 		6
+w.cz. 		6
+wiorst. 		5
+ujg. 		5
+chorw. 		5
+krm. 		5
+złr. 		5
+miejsc. 		5
+ctn. 		5
+rs. 		5
+tz. 		5
+pr. 		5
+pers. 		5
+demokraci.pl. 		5
+ż. 		5
+past. 		5
+obw. 		5
+ns. 		5
+psk. 		5
+pw.św. 		5
+mi.in. 		5
+zwł. 		4
+s.f. 		4
+p.p.t. 		4
+l.y. 		4
+ndzw. 		4
+scs. 		4
+mong. 		4
+irl. 		4
+nzw. 		4
+p.f. 		4
+n.p.t. 		4
+węg. 		4
+n.p. 		4
+tur. 		4
+rz.-kat. 		4
+c.p. 		4
+r.ż. 		4
+ż.w. 		4
+will.i.am. 		4
+cit. 		4
+r.p.n.e. 		4
+e.w. 		4
+npm. 		4
+pastw. 		4
+gn. 		4
+rum. 		4
+grz. 		4
+rom. 		4
+e.e. 		4
+k.t. 		4
+pil. 		4
+c.gn. 		4
+plot. 		4
+kr. 		4
+r.niem. 		4
+bwp. 		4
+en.wiki. 		4
+folw. 		4
+m.n. 		4
+w.ks. 		3
+pd.zach. 		3
+ład.miotaj. 		3
+i.in. 		3
+ct. 		3
+cf. 		3
+sgr. 		3
+geocaching.com. 		3
+w.ś. 		3
+lx. 		3
+bpa. 		3
+chiń. 		3
+wybud. 		3
+łc. 		3
+fran. 		3
+p.por. 		3
+hl. 		3
+przedr. 		3
+błr. 		3
+hist. 		3
+wiet. 		3
+popr. 		3
+sk.gn. 		3
+psł. 		3
+poczt. 		3
+prawdop. 		3
+max. 		3
+prawd. 		3
+rpm. 		3
+ppł. 		3
+mórg. 		3
+st.sp. 		3
+odl. 		3
+plc. 		3
+wś. 		3
+dh. 		3
+cyr. 		3
+serb. 		3
+mlk. 		3
+osad. 		3
+wiek. 		3
+msc. 		2
+y.o. 		2
+racjonalista.pl. 		2
+zlot.wikimedia.pl. 		2
+e.v. 		2
+m.k.k. 		2
+sc. 		2
+farm. 		2
+w.p. 		2
+l.m. 		2
+dek. 		2
+nacz. 		2
+m.i. 		2
+n.t. 		2
+r.s. 		2
+sg. 		2
+p.b. 		2
+mel. 		2
+drew. 		2
+pf. 		2
+polityk. 		2
+b.m. 		2
+rozl. 		2
+skt. 		2
+px. 		2
+r.m. 		2
+ch. 		2
+m.n.p.m. 		2
+dniach. 		2
+mrg. 		2
+prawy.pl. 		2
+spustowym. 		2
+k.d. 		2
+m.a. 		2
+wsi. 		2
+d.s. 		2
+kp. 		2
+kb. 		2
+dłg. 		2
+t.p. 		2
+nieoficj. 		2
+zbud. 		2
+or. 		2
+as. 		2
+czes. 		2
+kbk. 		2
+kan. 		2
+i.m. 		2
+skrz. 		2
+wkm. 		2
+ft. 		2
+stpl. 		2
+dt. 		2
+uł.os.pr. 		2
+m.k. 		2
+akad. 		2
+b.p. 		2
+vols. 		2
+p.j.p. 		2
+k.r. 		2
+oset. 		2
+hg. 		2
+g.b. 		2
+n.p.m.n. 		2
+sing. 		2
+k.u. 		2
+g.t. 		2
+c.w. 		2
+em. 		2
+prob. 		2
+p.w.św. 		2
+leg. 		2
+fen. 		2
+ź. 		2
+tal. 		2
+stanowisk. 		2
+pleb. 		2
+ccm. 		2
+gr.-kat. 		2
+rodzin. 		2
+rodziny. 		2
+dzisiaj. 		2
+xx. 		2
+a.d. 		2
+cv. 		2
+pśb. 		2
+kpk. 		2
+n.m.p. 		2
+ub.w. 		2
+miesz. 		2
+innymi. 		2
+właśc. 		2
+a.r. 		2
+z.w.p. 		2
+prus. 		2
+rkm. 		2
+arcyb. 		2
+cnt. 		2
+mph. 		2
+w.m. 		2
+kaz. 		2
+s.a.r.l. 		2
+pvm. 		2
+krak. 		2
+el. 		2
+twz. 		2
+sr. 		2
+tv. 		2
+katol. 		2
+m.n.p.t. 		2
+tm. 		2
+rez. 		2
+n.h. 		2
+s.t. 		2
+komp. 		2
+osiągnięć. 		2
+bat. 		2
+dow. 		2
+jz. 		2
+n.p.n. 		2
+wzn. 		2
+ligg. 		2
+słń. 		2
+w.s. 		2
+i.t.d. 		2
+płn.wsch. 		2
+metal. 		2
+hort. 		2
+ton. 		2
+dzieci. 		2
+gazeta.pl. 		2
+w.t. 		2
+rosyjskim. 		1
+pchr. 		1
+ogona. 		1
+rozumie. 		1
+lomb. 		1
+mbl.is. 		1
+wzniesienia. 		1
+wchm. 		1
+spol. 		1
+mało. 		1
+czerwonej. 		1
+jh. 		1
+kraju. 		1
+strachem. 		1
+warstwowo. 		1
+sap. 		1
+starodrzew. 		1
+norw. 		1
+uzb. 		1
+dokum. 		1
+interia.pl. 		1
+konna. 		1
+worki. 		1
+przychylnie. 		1
+hiszp.-łac. 		1
+ppor.rez. 		1
+parafialny. 		1
+pl.wiki. 		1
+betandwin.com. 		1
+dobroczynnej. 		1
+gen.bryg. 		1
+jazdy. 		1
+uzupeł. 		1
+zwrotnym. 		1
+połud.-zach. 		1
+blog.onet.pl. 		1
+inkubatorze. 		1
+fotopolska.eu. 		1
+pdt. 		1
+wodny. 		1
+polskim. 		1
+pobor. 		1
+pieszych. 		1
+wfisci. 		1
+rundzie. 		1
+dóbr. 		1
+alt. 		1
+klaw. 		1
+zach.-płn. 		1
+gl. 		1
+metr. 		1
+rolnego. 		1
+francuskiej. 		1
+swět. 		1
+elektorem. 		1
+kategoria. 		1
+muzyk. 		1
+ojciec. 		1
+m.ni. 		1
+Ă. 		1
+grzywien. 		1
+np.płuca. 		1
+plamki. 		1
+od. 		1
+nap. 		1
+fol. 		1
+retorom. 		1
+koronnym. 		1
+trasy. 		1
+pwn.pl. 		1
+bułg. 		1
+zr. 		1
+gmina. 		1
+śrdw. 		1
+diec. 		1
+lojb. 		1
+np.m. 		1
+hol. 		1
+pastwiskach. 		1
+staropers. 		1
+nż. 		1
+st.słowian. 		1
+jest. 		1
+przesada. 		1
+patrz. 		1
+dź. 		1
+dramatopisarzem. 		1
+brata. 		1
+piech. 		1
+słow. 		1
+lit.-artyst. 		1
+dwa. 		1
+cyl. 		1
+religijnym. 		1
+turniejach. 		1
+empik.com. 		1
+uproszcz. 		1
+tuw. 		1
+dnie. 		1
+blackberry.net. 		1
+wyst. 		1
+txt. 		1
+diagram. 		1
+vel. 		1
+remizy. 		1
+kar. 		1
+obecnie. 		1
+sześć. 		1
+dokumentach. 		1
+script.img. 		1
+gruntach. 		1
+tkzw. 		1
+technicznym. 		1
+sch. 		1
+gtf. 		1
+muzycznych. 		1
+pzmot. 		1
+rolnicza. 		1
+baw. 		1
+ego. 		1
+nothosubsp. 		1
+wroga. 		1
+gamma. 		1
+adresu. 		1
+mał. 		1
+kasz. 		1
+prem. 		1
+subp. 		1
+np.kulorzęskiem. 		1
+deleg. 		1
+przedludzkimi. 		1
+zamkowej. 		1
+gh. 		1
+kategorie. 		1
+owocowych. 		1
+cywilnego. 		1
+rzymskokatolików. 		1
+departamentalizacja. 		1
+zrt. 		1
+antytrynitarskiego. 		1
+muzyczne. 		1
+wpm. 		1
+dusz. 		1
+xkcd. 		1
+krakow. 		1
+sms. 		1
+włościańskiej. 		1
+takt. 		1
+kwadratowych. 		1
+sier. 		1
+ppodh. 		1
+marzycielem. 		1
+www.opoka.org.pl. 		1
+opisywac. 		1
+last.fm. 		1
+kierunki. 		1
+st.uł. 		1
+da. 		1
+sss. 		1
+plmb. 		1
+zawieszenie. 		1
+kalis. 		1
+www.globalgreens.info. 		1
+artystyczne. 		1
+ks.hm. 		1
+port. 		1
+odb. 		1
+prof.dr. 		1
+zagrodn. 		1
+imprez.in. 		1
+www.studzianka.pl. 		1
+duszp. 		1
+literatów. 		1
+asteroidy. 		1
+osiagniec. 		1
+warunki. 		1
+mamy. 		1
+praef. 		1
+teatr. 		1
+ppm. 		1
+gospodarzy. 		1
+zagrod. 		1
+zagranicy. 		1
+p.szwol. 		1
+rybnickie. 		1
+szwedz. 		1
+wiedzy. 		1
+uchwytem. 		1
+polny. 		1
+feat. 		1
+wyborczym. 		1
+wr. 		1
+pn.zach. 		1
+komercyjnym. 		1
+lat. 		1
+m.cz. 		1
+narodowosci. 		1
+chwytu. 		1
+zniszczeniu. 		1
+atm. 		1
+lazuli. 		1
+stopami. 		1
+www.itvp.pl. 		1
+zaginionych. 		1
+weryfikacji. 		1
+admina. 		1
+sb. 		1
+snop. 		1
+węży. 		1
+żw. 		1
+murowany. 		1
+linksrh. 		1
+frl. 		1
+dnia. 		1
+siedliskowej. 		1
+fleksografia. 		1
+włśc. 		1
+opozycji. 		1
+lt. 		1
+wieczoru. 		1
+md. 		1
+werniksem. 		1
+kipiani.org. 		1
+wewn. 		1
+www.afryka.org. 		1
+p.zmot. 		1
+po. 		1
+hasła. 		1
+cdp.pl. 		1
+sochaczewianin.pl. 		1
+rus. 		1
+daw. 		1
+anihilowana. 		1
+kanton. 		1
+cmd.exe. 		1
+slrn. 		1
+frontowej. 		1
+m.npm. 		1
+lewica.pl. 		1
+kolei. 		1
+mi.n. 		1
+dvb. 		1
+sędziowskim. 		1
+im.płk. 		1
+ograniczone. 		1
+sady. 		1
+index.dat. 		1
+wyróżnia. 		1
+ozn. 		1
+irytuje. 		1
+szyba. 		1
+kpr.pchr. 		1
+osób. 		1
+jazd. 		1
+ściąga.pl. 		1
+org. 		1
+staronord. 		1
+karakałp. 		1
+elektrycznie. 		1
+pzt. 		1
+mcccxcv. 		1
+nkm. 		1
+germanizacyjny. 		1
+krz. 		1
+archiwum. 		1
+scen. 		1
+gnieźn. 		1
+prasy. 		1
+partyjne. 		1
+urodz. 		1
+konopie. 		1
+olimp. 		1
+kryt. 		1
+komputerowej. 		1
+poziomego. 		1
+pragerm. 		1
+tat. 		1
+dziala. 		1
+odm. 		1
+ks.kan. 		1
+stron. 		1
+uranu. 		1
+wypowiedziach. 		1
+lista. 		1
+rozkazodawstwa. 		1
+karacz.-bałk. 		1
+kpc. 		1
+kasztelana. 		1
+pruskie. 		1
+psql. 		1
+gr.kat. 		1
+www.episkopat.pl. 		1
+niepr. 		1
+utg. 		1
+klony. 		1
+www.kampanianazywo.pl. 		1
+hrb. 		1
+kwět. 		1
+rejonie. 		1
+cmentarz. 		1
+do. 		1
+rmx. 		1
+rxvt. 		1
+naukowych. 		1
+poetki. 		1
+prowans. 		1
+doswiadczenia. 		1
+helw. 		1
+frp. 		1
+ind. 		1
+p.odg. 		1
+ksylemu. 		1
+bitwie. 		1
+punkt. 		1
+werden. 		1
+miejscu. 		1
+biol. 		1
+komor. 		1
+kawalerii. 		1
+radiojazz.fm. 		1
+poborowego. 		1
+koloru. 		1
+si. 		1
+deszczu. 		1
+pistoletu. 		1
+tak. 		1
+jx. 		1
+het. 		1
+stadiony.net. 		1
+drzewami. 		1
+urbanist. 		1
+owszem. 		1
+połud.-wsch. 		1
+opowiadania.pl. 		1
+one. 		1
+sportowego. 		1
+gospodarstw. 		1
+np.ochotką. 		1
+j.św. 		1
+wodach. 		1
+płótnem. 		1
+muzyki. 		1
+samym. 		1
+sandomierska. 		1
+aminokwasowa. 		1
+media. 		1
+jak. 		1
+t.zw. 		1
+starop. 		1
+zap. 		1
+rozkazu. 		1
+bossa.pl. 		1
+zbrojnej. 		1
+cd. 		1
+ftp. 		1
+starofrank. 		1
+holenderskich. 		1
+sow. 		1
+wrz. 		1
+teologiapolityczna.pl. 		1
+orm. 		1
+kathedr. 		1
+www.cracovia.livenet.pl. 		1
+nl. 		1
+koronnej. 		1
+zachodnie. 		1
+poprz. 		1
+torfowcowego. 		1
+germ. 		1
+spodzie. 		1
+floren. 		1
+dwor. 		1
+radiogdansk.pl. 		1
+fps. 		1
+amer. 		1
+zagrodniczce. 		1
+stwniem. 		1
+zdrowie. 		1
+ja.wikipedia.com. 		1
+powiat. 		1
+burskiej. 		1
+pojazdy. 		1
+nom. 		1
+www.pidgin.im. 		1
+historycznych. 		1
+czeska. 		1
+premier.gov.pl. 		1
+dziennikarzami. 		1
+mapa. 		1
+dpkg. 		1
+ort. 		1
+inima.al. 		1
+obrad. 		1
+satanizmu. 		1
+www.zspborek.szkolnastrona.pl. 		1
+trolejbusowa. 		1
+usuneliscie. 		1
+sztucznego. 		1
+repertuaru. 		1
+wcz. 		1
+czarnog. 		1
+automatycznym. 		1
+czas. 		1
+zespole. 		1
+ar. 		1
+bar. 		1
+youtu.be. 		1
+prop. 		1
+trzydziestoletniej. 		1
+miejscowych. 		1
+theeraser.net. 		1
+instytucja.qld.gov.au. 		1
+wyl. 		1
+p.zmot.kaw. 		1
+pcz. 		1
+się. 		1
+kilometrze. 		1
+folwarku. 		1
+dzienniki. 		1
+usunac. 		1
+pppd. 		1
+atmosfery. 		1
+spadochroniarzy. 		1
+home.pl. 		1
+skandal. 		1
+pd.wsch. 		1
+podjazd. 		1
+this.name. 		1
+organizacji. 		1
+pogodynka.pl. 		1
+wrzecion. 		1
+bpm. 		1
+kieleckiego. 		1
+sh. 		1
+minimalna. 		1
+grec. 		1
+devayonii. 		1
+hmmm. 		1
+www.bonsaikitten.com. 		1
+bblog.pl. 		1
+charakterze. 		1
+prezbiterium. 		1
+gx. 		1
+cmentarzu. 		1
+terytorialnej. 		1
+global. 		1
+dyskusji. 		1
+pg. 		1
+playok.com. 		1
+cx. 		1
+pigmentu. 		1
+wydzielono. 		1
+bhp. 		1
+łanów. 		1
+infoboxy. 		1
+najb. 		1
+tkactwo. 		1
+sportowiec. 		1
+ryby. 		1
+domy. 		1
+błg. 		1
+p.szw. 		1
+pl.comp.dtp.tex.gust. 		1
+kn. 		1
+korp. 		1
+wilgotny. 		1
+kmiecych. 		1
+domena.com.al. 		1
+ornych. 		1
+tadż. 		1
+grunt. 		1
+kilkubudynkowe. 		1
+szkolnej. 		1
+scp. 		1
+jpg. 		1
+st.sierż. 		1
+onet.pl. 		1
+gorlickiej. 		1
+pz. 		1
+zbior. 		1
+peczki. 		1
+fac. 		1
+ndz. 		1
+zachodu. 		1
+kultura.wp.pl. 		1
+basista. 		1
+sam. 		1
+samopowtarzalny. 		1
+nld. 		1
+dopiewski. 		1
+pomorskiego. 		1
+isl. 		1
+pracy. 		1
+fab. 		1
+tabliczkowy. 		1
+n.pm. 		1
+opatem. 		1
+godziny. 		1
+dr.pow. 		1
+tabelki. 		1
+rrrrmmdd. 		1
+taras. 		1
+dvd. 		1
+plrt. 		1
+słn. 		1
+forma. 		1
+półn.-wsch. 		1
+roli. 		1
+ency. 		1
+geolutin.com. 		1
+bsp. 		1
+tys.wiernych. 		1
+pułapu. 		1
+symbolizmu. 		1
+substancji. 		1
+zag. 		1
+birm. 		1
+turystów. 		1
+taj. 		1
+licencji. 		1
+vaticanstate.va. 		1
+nw.gr. 		1
+podstawowe. 		1
+mf. 		1
+klubu. 		1
+open.fm. 		1
+karel. 		1
+wysp. 		1
+m.im. 		1
+targowiczan. 		1
+zwietrzelina. 		1
+gruz. 		1
+wytd. 		1
+sidebar.exe. 		1
+para. 		1
+podziemia. 		1
+kolejowy. 		1
+obcokrajowcy. 		1
+pos. 		1
+hs. 		1
+nid. 		1
+wojskowy. 		1
+wodnych. 		1
+eteru. 		1
+folwark. 		1
+dpn. 		1
+tzar.wdm. 		1
+arkady. 		1
+sierpniu. 		1
+czasu. 		1
+k.k.priv. 		1
+bg. 		1
+bóg. 		1
+szablony. 		1
+wyż.wym. 		1
+st.mar. 		1
+omszona. 		1
+galaktyce. 		1
+oku. 		1
+partycji. 		1
+starofranc. 		1
+kanonizowanego. 		1
+łacińskie. 		1
+symbolics.com. 		1
+cmentarza. 		1
+egzemplarzy. 		1
+www.penspinning.pl. 		1
+podsekr. 		1
+woj.kieleckim. 		1
+ruszenia. 		1
+archipelagu. 		1
+sk. 		1
+www.ekoturystykawpolsce.pl. 		1
+pytania. 		1
+pdrtm. 		1
+zwyczajny. 		1
+orzechowego. 		1
+startup.cmd. 		1
+podgatunkach. 		1
+dd. 		1
+podgat. 		1
+monarchii. 		1
+udać. 		1
+info. 		1
+dbf. 		1
+oldboye. 		1
+wyd.pol. 		1
+spalona. 		1
+niepożądanych. 		1
+zysku. 		1
+wodospadami. 		1
+gen.dyw. 		1
+hab.n.med. 		1
+założ. 		1
+oksyt. 		1
+osm.-tur. 		1
+gminy. 		1
+mt. 		1
+puscifer.com. 		1
+search.blogger.com. 		1
+niemieckim. 		1
+półłankach. 		1
+liturgicznym. 		1
+zh. 		1
+kirg. 		1
+rubli. 		1
+models.com. 		1
+mediae. 		1
+przodu. 		1
+spokr. 		1
+msk. 		1
+koronach. 		1
+ogromne. 		1
+dial. 		1
+tzw.podkowy. 		1
+wrzosowiskach. 		1
+mi. 		1
+ciuchy. 		1
+maz. 		1
+tfr. 		1
+nawy. 		1
+jadowymi. 		1
+www.audio.demon.nl. 		1
+małopolskiego. 		1
+bitwy. 		1
+biblia.pl. 		1
+j.niem. 		1
+klas. 		1
+www.przystanwarmia.eu. 		1
+instr. 		1
+pisze. 		1
+ziemi. 		1
+www.polityka.pl. 		1
+wet. 		1
+wi. 		1
+tłm. 		1
+słw. 		1
+wojew. 		1
+wal. 		1
+zarzut. 		1
+zawodowych. 		1
+sześc.gazu. 		1
+imdb.com. 		1
+technicznych. 		1
+ń. 		1
+sx. 		1
+t.odprowadzającej. 		1
+stgnm. 		1
+g.region. 		1
+itp.itp. 		1
+przedmieść. 		1
+death. 		1
+co.nr. 		1
+fil. 		1
+grobowca. 		1
+xk. 		1
+charakt. 		1
+btw. 		1
+meteo. 		1
+na. 		1
+dygnitarzami. 		1
+kir. 		1
+wż. 		1
+b.zwyczajną. 		1
+sklepu. 		1
+rozkwit. 		1
